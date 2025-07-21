@@ -17,11 +17,11 @@ namespace Portafolio.Servicios
                 Descripcion = "Proyecto realizado con React, Javascript ASP.NET Core Web API y SQL Server." +
                 " Permite reservar servicios de transporte de facil manera ademas de visualizar costos en tiempo real",
                 Imagenes = new List<string>{
-                    "/imagenes/Proyectos/1.png",
-                    "/imagenes/Proyectos/2.png",
-                    "/imagenes/Proyectos/3.png"
+                    "/imagenes/Proyectos/16.png",
+                    "/imagenes/Proyectos/17.png",
+                    "/imagenes/Proyectos/18.png"
                 },
-                Link = "https://balance-fin-pro-team-joseth.netlify.app/",    
+                Link = "https://vemuzatransportes-frontend.onrender.com/",    
             },
 
                 new ProyectoDTO
@@ -56,18 +56,7 @@ namespace Portafolio.Servicios
                     "/imagenes/Proyectos/11.png",
                     "/imagenes/Proyectos/12.png"
                 },
-                Link = "https://balance-fin-pro-team-joseth.netlify.app/",
-            },
-                new ProyectoDTO
-            {
-                Titulo = "Balance",
-                Descripcion = "Proyecto realizado con React y TypeScript",
-                Imagenes = new List<string>{
-                    "/imagenes/BalanceFin-Pro.jpg",
-                    "/imagenes/BalanceFin-Pro.jpg",
-                    "/imagenes/BalanceFin-Pro.jpg"
-                },
-                Link = "https://balance-fin-pro-team-joseth.netlify.app/",
+                Link = "https://gif-experto-joseth.netlify.app/",
             },
             };
         }
